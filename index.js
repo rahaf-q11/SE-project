@@ -1,9 +1,9 @@
 function mooncakeSays(message){
- let mooncake='(O.o)';
+ let mooncake='(9o)';
  if( !message) {
    return '{mooncake} cookity?';
  }
-  return '${mooncake} ${message}!';
+  return '${mooncake} ${message';
 }
 module.exports.mooncakSays = mooncakeSays;
 
